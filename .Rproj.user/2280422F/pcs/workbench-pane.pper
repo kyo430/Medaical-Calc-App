@@ -1,8 +1,6 @@
 {
     "TabSet1" : 0,
-    "TabSet2" : 0,
+    "TabSet2" : 2,
     "TabZoom" : {
-        "MaximizedTab" : "Console",
-        "WidgetSize" : 262.7049050632912
     }
 }
