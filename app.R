@@ -30,6 +30,7 @@ ui <- dashboardPage(
     dashboardBody(
         shinyjs::useShinyjs(),
         tabItem("gamma",
+                h1("Gamma culculation"),
                 box(
                     title = "Input Data",
                     status = "primary",

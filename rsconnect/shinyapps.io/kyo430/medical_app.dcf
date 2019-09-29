@@ -1,0 +1,10 @@
+name: medical_app
+title:
+username:
+account: kyo430
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1258885
+bundleId: 2451959
+url: https://kyo430.shinyapps.io/medical_app/
+when: 1569722601.07829
